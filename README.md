@@ -336,12 +336,10 @@ interface IColorService {
 ```
 ## OUTPUT
 
-### aidlserver App
-<img width="2875" height="1764" alt="image" src="https://github.com/user-attachments/assets/9f207bab-ae0b-447e-85d7-a8cba2e25173" />
-### aidlclient app
-<img width="2878" height="1760" alt="image" src="https://github.com/user-attachments/assets/09b2781e-fe01-410c-aada-b62c6eb41722" />
+### Aidlserver App
+<img width="1459" height="1078" alt="e158408e-8540-4343-8e65-678dcf2347b2" src="https://github.com/user-attachments/assets/78d902be-a09a-48ca-9dc5-991692a100b6" />
 
-<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/3e1f32b2-205a-4dbd-ba83-6cd6cf969434" />
+
 
 
 
