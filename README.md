@@ -338,7 +338,7 @@ interface IColorService {
 
 ### Aidlserver App
 <img width="1459" height="1078" alt="e158408e-8540-4343-8e65-678dcf2347b2" src="https://github.com/user-attachments/assets/78d902be-a09a-48ca-9dc5-991692a100b6" />
-<img width="863" height="1823" alt="d2e0ec8c-93e3-42c3-8140-00298504d497" src="https://github.com/user-attachments/assets/ed5b836f-ac5c-4b49-b85a-bc59fa4bb273" />
+<img width="350" height="600" alt="d2e0ec8c-93e3-42c3-8140-00298504d497" src="https://github.com/user-attachments/assets/ed5b836f-ac5c-4b49-b85a-bc59fa4bb273" />
 
 
 
